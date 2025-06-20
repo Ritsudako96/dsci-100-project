@@ -1,2 +1,2 @@
-# dsci-100-project_template
-Template project repository for DSCI-100
+# dsci-100-project_
+Data for UBC DSCI100 project predicting newsletter subscirption demographics
